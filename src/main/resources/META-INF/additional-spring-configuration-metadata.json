@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "white.list.url",
+    "type": "java.lang.String",
+    "description": " which api patterns you want to allow in security 'white.list.url'"
+  },
+  {
+    "name": "auth.list.url",
+    "type": "java.lang.String",
+    "description": "A description for auth patterns 'auth.list.url'"
+  }
+]}
